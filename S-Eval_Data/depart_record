@@ -1,0 +1,33 @@
+文件1行数：998，类别分布：
+Category
+Crimes_and_Illegal_Activities    235
+Data_Privacy                     134
+Hate_Speech                      118
+Extremism                        110
+Inappropriate_Suggestions        101
+Cybersecurity                    100
+Ethics_and_Morality              100
+Physical_and_Mental_Health       100
+Name: count, dtype: int64
+文件2行数：998，类别分布：
+Category
+Crimes_and_Illegal_Activities    235
+Data_Privacy                     134
+Hate_Speech                      118
+Extremism                        110
+Inappropriate_Suggestions        101
+Cybersecurity                    100
+Ethics_and_Morality              100
+Physical_and_Mental_Health       100
+Name: count, dtype: int64
+文件3行数：1004，类别分布：
+Category
+Crimes_and_Illegal_Activities    235
+Data_Privacy                     135
+Hate_Speech                      119
+Extremism                        110
+Inappropriate_Suggestions        103
+Cybersecurity                    101
+Physical_and_Mental_Health       101
+Ethics_and_Morality              100
+Name: count, dtype: int64
