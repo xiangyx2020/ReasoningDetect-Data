@@ -1,0 +1,239 @@
+✅ 系统提示加载完成
+图片路径不存在: ./images/无图片名称
+✅ 加载到3条有效参考示例
+
+🔄 正在加载google/gemma-3-27b-it模型和处理器...
+Loading checkpoint shards:   0%|          | 0/12 [00:00<?, ?it/s]Loading checkpoint shards:   8%|▊         | 1/12 [00:01<00:16,  1.53s/it]Loading checkpoint shards:  17%|█▋        | 2/12 [00:02<00:14,  1.48s/it]Loading checkpoint shards:  25%|██▌       | 3/12 [00:04<00:13,  1.45s/it]Loading checkpoint shards:  33%|███▎      | 4/12 [00:05<00:11,  1.46s/it]Loading checkpoint shards:  42%|████▏     | 5/12 [00:07<00:10,  1.46s/it]Loading checkpoint shards:  50%|█████     | 6/12 [00:08<00:08,  1.46s/it]Loading checkpoint shards:  58%|█████▊    | 7/12 [00:10<00:07,  1.46s/it]Loading checkpoint shards:  67%|██████▋   | 8/12 [00:11<00:05,  1.46s/it]Loading checkpoint shards:  75%|███████▌  | 9/12 [00:13<00:04,  1.46s/it]Loading checkpoint shards:  83%|████████▎ | 10/12 [00:14<00:02,  1.47s/it]Loading checkpoint shards:  92%|█████████▏| 11/12 [00:16<00:01,  1.45s/it]Loading checkpoint shards: 100%|██████████| 12/12 [00:16<00:00,  1.05s/it]Loading checkpoint shards: 100%|██████████| 12/12 [00:16<00:00,  1.35s/it]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+✅ 模型和处理器加载完成，模型位于: cuda:0
+
+🚀 开始处理主数据...
+Gemma-3-27B 处理进度:   0%|          | 0/216 [00:00<?, ?条/s]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+skipping cudagraphs due to skipping cudagraphs due to multiple devices: device(type='cuda', index=0), device(type='cuda', index=1), device(type='cuda', index=2), device(type='cuda', index=3), device(type='cuda', index=4)
+Gemma-3-27B 处理进度:   0%|          | 1/216 [01:34<5:37:52, 94.29s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+skipping cudagraphs due to skipping cudagraphs due to multiple devices: device(type='cuda', index=0), device(type='cuda', index=1), device(type='cuda', index=2), device(type='cuda', index=3), device(type='cuda', index=4)
+Gemma-3-27B 处理进度:   1%|          | 2/216 [02:41<4:39:03, 78.24s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+skipping cudagraphs due to skipping cudagraphs due to multiple devices: device(type='cuda', index=0), device(type='cuda', index=1), device(type='cuda', index=2), device(type='cuda', index=3), device(type='cuda', index=4)
+Gemma-3-27B 处理进度:   1%|▏         | 3/216 [03:49<4:20:43, 73.44s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   2%|▏         | 4/216 [04:01<2:54:56, 49.51s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   2%|▏         | 5/216 [04:14<2:07:45, 36.33s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+skipping cudagraphs due to skipping cudagraphs due to multiple devices: device(type='cuda', index=0), device(type='cuda', index=1), device(type='cuda', index=2), device(type='cuda', index=3), device(type='cuda', index=4)
+Gemma-3-27B 处理进度:   3%|▎         | 6/216 [05:01<2:18:56, 39.70s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   3%|▎         | 7/216 [05:22<1:57:24, 33.71s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   4%|▎         | 8/216 [05:41<1:40:38, 29.03s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   4%|▍         | 9/216 [05:55<1:24:27, 24.48s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+skipping cudagraphs due to skipping cudagraphs due to multiple devices: device(type='cuda', index=0), device(type='cuda', index=1), device(type='cuda', index=2), device(type='cuda', index=3), device(type='cuda', index=4)
+Gemma-3-27B 处理进度:   5%|▍         | 10/216 [07:14<2:21:39, 41.26s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+skipping cudagraphs due to skipping cudagraphs due to multiple devices: device(type='cuda', index=0), device(type='cuda', index=1), device(type='cuda', index=2), device(type='cuda', index=3), device(type='cuda', index=4)
+Gemma-3-27B 处理进度:   5%|▌         | 11/216 [08:26<2:52:37, 50.53s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   6%|▌         | 12/216 [08:41<2:15:23, 39.82s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   6%|▌         | 13/216 [08:58<1:51:05, 32.84s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   6%|▋         | 14/216 [09:14<1:33:40, 27.82s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   7%|▋         | 15/216 [09:34<1:25:06, 25.41s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   7%|▋         | 16/216 [09:49<1:14:08, 22.24s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   8%|▊         | 17/216 [10:05<1:08:12, 20.57s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   8%|▊         | 18/216 [10:19<1:01:14, 18.56s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   9%|▉         | 19/216 [10:34<57:31, 17.52s/条]  The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:   9%|▉         | 20/216 [10:49<54:11, 16.59s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  10%|▉         | 21/216 [11:03<51:43, 15.91s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  10%|█         | 22/216 [11:18<50:14, 15.54s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  11%|█         | 23/216 [11:34<51:00, 15.86s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  11%|█         | 24/216 [11:49<49:53, 15.59s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  12%|█▏        | 25/216 [12:10<54:41, 17.18s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  12%|█▏        | 26/216 [12:29<55:28, 17.52s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  12%|█▎        | 27/216 [12:46<55:11, 17.52s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  13%|█▎        | 28/216 [13:02<53:42, 17.14s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  13%|█▎        | 29/216 [13:16<49:41, 15.95s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  14%|█▍        | 30/216 [13:28<45:55, 14.81s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  14%|█▍        | 31/216 [13:43<45:48, 14.86s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  15%|█▍        | 32/216 [13:56<44:18, 14.45s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  15%|█▌        | 33/216 [14:13<46:06, 15.12s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  16%|█▌        | 34/216 [14:32<49:01, 16.16s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  16%|█▌        | 35/216 [14:50<50:58, 16.90s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  17%|█▋        | 36/216 [15:04<48:21, 16.12s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  17%|█▋        | 37/216 [15:21<48:50, 16.37s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  18%|█▊        | 38/216 [15:38<48:52, 16.48s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  18%|█▊        | 39/216 [15:53<47:23, 16.07s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  19%|█▊        | 40/216 [16:10<47:41, 16.26s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  19%|█▉        | 41/216 [16:25<46:47, 16.04s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  19%|█▉        | 42/216 [16:40<45:37, 15.73s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  20%|█▉        | 43/216 [17:10<56:57, 19.75s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  20%|██        | 44/216 [17:27<54:32, 19.03s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  21%|██        | 45/216 [17:46<54:20, 19.07s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  21%|██▏       | 46/216 [18:05<53:56, 19.04s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  22%|██▏       | 47/216 [18:24<53:33, 19.01s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+skipping cudagraphs due to skipping cudagraphs due to multiple devices: device(type='cuda', index=0), device(type='cuda', index=1), device(type='cuda', index=2), device(type='cuda', index=3), device(type='cuda', index=4)
+Gemma-3-27B 处理进度:  22%|██▏       | 48/216 [19:42<1:43:11, 36.85s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  23%|██▎       | 49/216 [20:01<1:27:27, 31.42s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  23%|██▎       | 50/216 [20:15<1:12:29, 26.20s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  24%|██▎       | 51/216 [20:34<1:05:33, 23.84s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  24%|██▍       | 52/216 [20:47<56:30, 20.67s/条]  The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  25%|██▍       | 53/216 [21:09<57:19, 21.10s/条]/home/yxxiang/anaconda3/envs/reasoning/lib/python3.10/site-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  25%|██▌       | 54/216 [21:24<51:44, 19.17s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  25%|██▌       | 55/216 [21:49<56:38, 21.11s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  26%|██▌       | 56/216 [22:06<52:43, 19.77s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  26%|██▋       | 57/216 [22:21<48:27, 18.28s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  27%|██▋       | 58/216 [22:39<48:08, 18.28s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  27%|██▋       | 59/216 [22:58<48:25, 18.51s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  28%|██▊       | 60/216 [23:13<45:26, 17.48s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  28%|██▊       | 61/216 [23:31<45:11, 17.49s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  29%|██▊       | 62/216 [23:52<48:02, 18.72s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  29%|██▉       | 63/216 [24:06<44:19, 17.38s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  30%|██▉       | 64/216 [24:24<44:04, 17.39s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  30%|███       | 65/216 [24:37<40:14, 15.99s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  31%|███       | 66/216 [24:54<41:07, 16.45s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  31%|███       | 67/216 [25:08<38:41, 15.58s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  31%|███▏      | 68/216 [25:22<37:19, 15.13s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  32%|███▏      | 69/216 [25:35<35:40, 14.56s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  32%|███▏      | 70/216 [25:50<35:28, 14.58s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  33%|███▎      | 71/216 [26:06<36:30, 15.10s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  33%|███▎      | 72/216 [26:21<35:56, 14.98s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  34%|███▍      | 73/216 [26:36<35:50, 15.04s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  34%|███▍      | 74/216 [26:48<33:26, 14.13s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  35%|███▍      | 75/216 [27:03<34:08, 14.53s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  35%|███▌      | 76/216 [27:16<32:46, 14.04s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  36%|███▌      | 77/216 [27:31<32:44, 14.14s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  36%|███▌      | 78/216 [27:50<36:21, 15.81s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  37%|███▋      | 79/216 [28:08<37:04, 16.24s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  37%|███▋      | 80/216 [28:21<34:51, 15.38s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  38%|███▊      | 81/216 [28:36<34:05, 15.16s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  38%|███▊      | 82/216 [28:52<35:00, 15.67s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  38%|███▊      | 83/216 [29:16<40:14, 18.16s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  39%|███▉      | 84/216 [29:42<44:55, 20.42s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  39%|███▉      | 85/216 [30:05<46:03, 21.10s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  40%|███▉      | 86/216 [30:19<41:32, 19.17s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  40%|████      | 87/216 [30:31<36:20, 16.90s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  41%|████      | 88/216 [30:50<37:23, 17.52s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  41%|████      | 89/216 [31:05<35:19, 16.69s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  42%|████▏     | 90/216 [31:20<34:21, 16.36s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  42%|████▏     | 91/216 [31:40<36:10, 17.36s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  43%|████▎     | 92/216 [31:58<36:14, 17.53s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  43%|████▎     | 93/216 [32:19<38:15, 18.66s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  44%|████▎     | 94/216 [32:32<34:04, 16.76s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  44%|████▍     | 95/216 [32:50<34:55, 17.32s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  44%|████▍     | 96/216 [33:06<33:30, 16.75s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  45%|████▍     | 97/216 [33:19<31:22, 15.82s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  45%|████▌     | 98/216 [33:36<31:22, 15.95s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  46%|████▌     | 99/216 [34:00<36:06, 18.52s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  46%|████▋     | 100/216 [34:22<37:39, 19.48s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  47%|████▋     | 101/216 [34:37<34:39, 18.08s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  47%|████▋     | 102/216 [34:56<35:13, 18.54s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  48%|████▊     | 103/216 [35:11<32:50, 17.44s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  48%|████▊     | 104/216 [35:34<35:50, 19.20s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  49%|████▊     | 105/216 [35:50<33:45, 18.24s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  49%|████▉     | 106/216 [36:16<37:21, 20.38s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  50%|████▉     | 107/216 [36:43<40:35, 22.34s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  50%|█████     | 108/216 [37:07<41:05, 22.83s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  50%|█████     | 109/216 [37:25<38:25, 21.55s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  51%|█████     | 110/216 [38:08<49:31, 28.03s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  51%|█████▏    | 111/216 [38:22<41:39, 23.80s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  52%|█████▏    | 112/216 [38:39<37:21, 21.55s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  52%|█████▏    | 113/216 [38:51<32:21, 18.85s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  53%|█████▎    | 114/216 [39:03<28:27, 16.74s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  53%|█████▎    | 115/216 [39:25<31:01, 18.43s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  54%|█████▎    | 116/216 [39:43<30:33, 18.34s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  54%|█████▍    | 117/216 [40:01<29:56, 18.14s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  55%|█████▍    | 118/216 [40:19<29:39, 18.16s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  55%|█████▌    | 119/216 [40:38<29:41, 18.37s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  56%|█████▌    | 120/216 [40:59<30:29, 19.06s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  56%|█████▌    | 121/216 [41:22<32:20, 20.43s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  56%|█████▋    | 122/216 [41:43<31:51, 20.34s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  57%|█████▋    | 123/216 [42:03<31:25, 20.27s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  57%|█████▋    | 124/216 [42:28<33:23, 21.77s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  58%|█████▊    | 125/216 [42:42<29:37, 19.53s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  58%|█████▊    | 126/216 [42:56<26:33, 17.71s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  59%|█████▉    | 127/216 [43:10<24:41, 16.65s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  59%|█████▉    | 128/216 [43:23<23:01, 15.70s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  60%|█████▉    | 129/216 [43:37<21:38, 14.93s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  60%|██████    | 130/216 [44:01<25:29, 17.79s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  61%|██████    | 131/216 [44:16<24:01, 16.96s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  61%|██████    | 132/216 [44:29<22:06, 15.79s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  62%|██████▏   | 133/216 [44:45<21:49, 15.77s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  62%|██████▏   | 134/216 [44:59<21:00, 15.37s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  62%|██████▎   | 135/216 [45:13<20:16, 15.02s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  63%|██████▎   | 136/216 [45:28<20:01, 15.02s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  63%|██████▎   | 137/216 [45:46<20:45, 15.77s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  64%|██████▍   | 138/216 [46:02<20:41, 15.92s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  64%|██████▍   | 139/216 [46:18<20:19, 15.83s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  65%|██████▍   | 140/216 [46:33<19:55, 15.73s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  65%|██████▌   | 141/216 [46:47<18:50, 15.07s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  66%|██████▌   | 142/216 [47:06<20:06, 16.31s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  66%|██████▌   | 143/216 [47:21<19:23, 15.94s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  67%|██████▋   | 144/216 [47:39<19:57, 16.63s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  67%|██████▋   | 145/216 [47:55<19:22, 16.37s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  68%|██████▊   | 146/216 [48:12<19:19, 16.56s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  68%|██████▊   | 147/216 [48:28<18:41, 16.26s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  69%|██████▊   | 148/216 [48:45<18:37, 16.44s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  69%|██████▉   | 149/216 [49:00<18:03, 16.17s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  69%|██████▉   | 150/216 [49:16<17:38, 16.04s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  70%|██████▉   | 151/216 [49:32<17:32, 16.19s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  70%|███████   | 152/216 [49:50<17:38, 16.54s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  71%|███████   | 153/216 [50:06<17:22, 16.54s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  71%|███████▏  | 154/216 [50:27<18:14, 17.65s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  72%|███████▏  | 155/216 [50:49<19:15, 18.95s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  72%|███████▏  | 156/216 [51:14<20:46, 20.77s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  73%|███████▎  | 157/216 [51:34<20:25, 20.77s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  73%|███████▎  | 158/216 [51:51<18:45, 19.41s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  74%|███████▎  | 159/216 [52:12<19:08, 20.15s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  74%|███████▍  | 160/216 [52:33<18:47, 20.13s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  75%|███████▍  | 161/216 [52:50<17:42, 19.31s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  75%|███████▌  | 162/216 [53:09<17:19, 19.24s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  75%|███████▌  | 163/216 [53:25<16:08, 18.27s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  76%|███████▌  | 164/216 [53:43<15:47, 18.23s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  76%|███████▋  | 165/216 [54:00<15:02, 17.70s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  77%|███████▋  | 166/216 [54:22<16:02, 19.25s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  77%|███████▋  | 167/216 [54:37<14:28, 17.72s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  78%|███████▊  | 168/216 [54:53<13:47, 17.25s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  78%|███████▊  | 169/216 [55:08<12:59, 16.59s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  79%|███████▊  | 170/216 [55:23<12:21, 16.13s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  79%|███████▉  | 171/216 [55:41<12:38, 16.85s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  80%|███████▉  | 172/216 [55:55<11:40, 15.92s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  80%|████████  | 173/216 [56:13<11:47, 16.45s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  81%|████████  | 174/216 [56:29<11:25, 16.31s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  81%|████████  | 175/216 [56:46<11:15, 16.48s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  81%|████████▏ | 176/216 [57:00<10:31, 15.78s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  82%|████████▏ | 177/216 [57:16<10:20, 15.92s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  82%|████████▏ | 178/216 [57:36<10:45, 16.98s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  83%|████████▎ | 179/216 [57:51<10:08, 16.43s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  83%|████████▎ | 180/216 [58:15<11:11, 18.65s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  84%|████████▍ | 181/216 [58:32<10:44, 18.41s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  84%|████████▍ | 182/216 [58:50<10:21, 18.28s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  85%|████████▍ | 183/216 [59:07<09:48, 17.82s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  85%|████████▌ | 184/216 [59:31<10:28, 19.63s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  86%|████████▌ | 185/216 [59:46<09:29, 18.39s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  86%|████████▌ | 186/216 [1:00:03<08:58, 17.96s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  87%|████████▋ | 187/216 [1:00:30<09:54, 20.51s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  87%|████████▋ | 188/216 [1:01:07<11:57, 25.64s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  88%|████████▊ | 189/216 [1:01:30<11:09, 24.81s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  88%|████████▊ | 190/216 [1:01:49<10:00, 23.10s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  88%|████████▊ | 191/216 [1:02:14<09:50, 23.62s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  89%|████████▉ | 192/216 [1:02:40<09:38, 24.12s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  89%|████████▉ | 193/216 [1:03:02<09:01, 23.53s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  90%|████████▉ | 194/216 [1:03:24<08:29, 23.18s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  90%|█████████ | 195/216 [1:03:43<07:39, 21.86s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  91%|█████████ | 196/216 [1:04:09<07:42, 23.14s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  91%|█████████ | 197/216 [1:04:24<06:34, 20.75s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  92%|█████████▏| 198/216 [1:04:38<05:34, 18.61s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  92%|█████████▏| 199/216 [1:04:53<04:58, 17.59s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  93%|█████████▎| 200/216 [1:05:11<04:43, 17.73s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  93%|█████████▎| 201/216 [1:05:26<04:14, 16.95s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  94%|█████████▎| 202/216 [1:05:39<03:39, 15.71s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  94%|█████████▍| 203/216 [1:05:54<03:20, 15.39s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  94%|█████████▍| 204/216 [1:06:09<03:03, 15.30s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  95%|█████████▍| 205/216 [1:06:23<02:44, 14.94s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  95%|█████████▌| 206/216 [1:06:37<02:25, 14.57s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  96%|█████████▌| 207/216 [1:06:59<02:31, 16.80s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  96%|█████████▋| 208/216 [1:07:21<02:28, 18.59s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  97%|█████████▋| 209/216 [1:07:42<02:13, 19.13s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  97%|█████████▋| 210/216 [1:08:02<01:56, 19.40s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  98%|█████████▊| 211/216 [1:08:22<01:38, 19.65s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  98%|█████████▊| 212/216 [1:08:50<01:29, 22.29s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  99%|█████████▊| 213/216 [1:09:14<01:07, 22.59s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度:  99%|█████████▉| 214/216 [1:09:34<00:43, 21.89s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度: 100%|█████████▉| 215/216 [1:10:00<00:23, 23.10s/条]The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Gemma-3-27B 处理进度: 100%|██████████| 216/216 [1:10:22<00:00, 22.68s/条]Gemma-3-27B 处理进度: 100%|██████████| 216/216 [1:10:22<00:00, 19.55s/条]
+
+所有处理完成，结果已保存到 gemma-3_eval_Kimi.json
+成功处理：216条 | 失败：0条

@@ -1,0 +1,561 @@
+✅ 系统提示加载完成
+图片路径不存在: ./BenignImg/无图片名称
+✅ 加载到3条有效参考示例
+
+🔄 正在加载mistralai/Mistral-Small-3.2-24B-Instruct-2506模型和分词器...
+Loading checkpoint shards:   0%|          | 0/10 [00:00<?, ?it/s]Loading checkpoint shards:  10%|█         | 1/10 [00:01<00:13,  1.51s/it]Loading checkpoint shards:  20%|██        | 2/10 [00:02<00:11,  1.41s/it]Loading checkpoint shards:  30%|███       | 3/10 [00:04<00:09,  1.39s/it]Loading checkpoint shards:  40%|████      | 4/10 [00:05<00:08,  1.36s/it]Loading checkpoint shards:  50%|█████     | 5/10 [00:06<00:06,  1.34s/it]Loading checkpoint shards:  60%|██████    | 6/10 [00:08<00:05,  1.33s/it]Loading checkpoint shards:  70%|███████   | 7/10 [00:09<00:03,  1.33s/it]Loading checkpoint shards:  80%|████████  | 8/10 [00:10<00:02,  1.30s/it]Loading checkpoint shards:  90%|█████████ | 9/10 [00:11<00:01,  1.29s/it]Loading checkpoint shards: 100%|██████████| 10/10 [00:13<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 10/10 [00:13<00:00,  1.32s/it]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+✅ 模型和分词器加载完成，模型位于: cuda:0
+
+🚀 开始处理主数据...
+Mistral-3.2 处理进度:   0%|          | 0/272 [00:00<?, ?条/s]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+/home/yxxiang/anaconda3/envs/reasoning/lib/python3.10/site-packages/mistral_common/tokens/tokenizers/tekken.py:461: FutureWarning: Using the tokenizer's special token policy (0) is deprecated. It will be removed in 1.10.0. Please pass a special token policy explicitly. Future default will be SpecialTokenPolicy.IGNORE.
+  warnings.warn(
+Mistral-3.2 处理进度:   0%|          | 1/272 [00:19<1:26:01, 19.05s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   1%|          | 2/272 [01:07<2:42:20, 36.08s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   1%|          | 3/272 [01:30<2:16:49, 30.52s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   1%|▏         | 4/272 [01:50<1:57:14, 26.25s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   2%|▏         | 5/272 [02:13<1:51:37, 25.08s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   2%|▏         | 6/272 [04:00<3:53:48, 52.74s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   3%|▎         | 7/272 [04:35<3:27:57, 47.09s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   3%|▎         | 8/272 [04:55<2:49:36, 38.55s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   3%|▎         | 9/272 [05:19<2:28:41, 33.92s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   4%|▎         | 10/272 [05:39<2:08:56, 29.53s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   4%|▍         | 11/272 [06:00<1:56:52, 26.87s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   4%|▍         | 12/272 [06:20<1:47:57, 24.91s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   5%|▍         | 13/272 [06:41<1:42:10, 23.67s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   5%|▌         | 14/272 [07:05<1:42:17, 23.79s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   6%|▌         | 15/272 [07:31<1:44:39, 24.43s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   6%|▌         | 16/272 [07:57<1:46:55, 25.06s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   6%|▋         | 17/272 [08:27<1:52:46, 26.53s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   7%|▋         | 18/272 [08:48<1:45:11, 24.85s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   7%|▋         | 19/272 [09:09<1:39:29, 23.60s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   7%|▋         | 20/272 [09:30<1:36:07, 22.89s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   8%|▊         | 21/272 [09:56<1:39:49, 23.86s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   8%|▊         | 22/272 [10:17<1:35:47, 22.99s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   8%|▊         | 23/272 [11:16<2:19:23, 33.59s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   9%|▉         | 24/272 [11:51<2:21:01, 34.12s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:   9%|▉         | 25/272 [12:57<2:59:42, 43.66s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  10%|▉         | 26/272 [13:18<2:30:47, 36.78s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  10%|▉         | 27/272 [13:50<2:24:31, 35.39s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  10%|█         | 28/272 [14:23<2:20:47, 34.62s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  11%|█         | 29/272 [15:28<2:58:17, 44.02s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  11%|█         | 30/272 [15:52<2:33:18, 38.01s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  11%|█▏        | 31/272 [16:19<2:18:43, 34.54s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  12%|█▏        | 32/272 [16:42<2:04:19, 31.08s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  12%|█▏        | 33/272 [17:08<1:58:08, 29.66s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  12%|█▎        | 34/272 [17:48<2:09:15, 32.59s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  13%|█▎        | 35/272 [18:16<2:03:18, 31.22s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  13%|█▎        | 36/272 [18:44<1:59:27, 30.37s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  14%|█▎        | 37/272 [19:08<1:51:17, 28.41s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  14%|█▍        | 38/272 [19:36<1:50:00, 28.21s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  14%|█▍        | 39/272 [20:09<1:55:30, 29.74s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  15%|█▍        | 40/272 [20:34<1:49:08, 28.23s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  15%|█▌        | 41/272 [20:53<1:38:24, 25.56s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  15%|█▌        | 42/272 [21:16<1:34:52, 24.75s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  16%|█▌        | 43/272 [21:42<1:35:32, 25.03s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  16%|█▌        | 44/272 [22:08<1:36:51, 25.49s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  17%|█▋        | 45/272 [22:36<1:38:44, 26.10s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  17%|█▋        | 46/272 [23:04<1:40:47, 26.76s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  17%|█▋        | 47/272 [23:28<1:37:49, 26.08s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  18%|█▊        | 48/272 [23:47<1:29:21, 23.94s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  18%|█▊        | 49/272 [24:09<1:26:07, 23.17s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  18%|█▊        | 50/272 [24:52<1:48:06, 29.22s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  19%|█▉        | 51/272 [25:16<1:42:10, 27.74s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  19%|█▉        | 52/272 [25:41<1:38:00, 26.73s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  19%|█▉        | 53/272 [26:09<1:39:38, 27.30s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  20%|█▉        | 54/272 [26:40<1:42:27, 28.20s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  20%|██        | 55/272 [27:09<1:43:11, 28.53s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  21%|██        | 56/272 [28:29<2:38:40, 44.08s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  21%|██        | 57/272 [29:01<2:24:22, 40.29s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  21%|██▏       | 58/272 [29:21<2:02:01, 34.21s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  22%|██▏       | 59/272 [29:49<1:54:43, 32.32s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  22%|██▏       | 60/272 [30:16<1:48:59, 30.84s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  22%|██▏       | 61/272 [30:55<1:56:25, 33.11s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  23%|██▎       | 62/272 [31:18<1:46:08, 30.32s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  23%|██▎       | 63/272 [31:39<1:35:15, 27.35s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  24%|██▎       | 64/272 [32:05<1:33:33, 26.99s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  24%|██▍       | 65/272 [32:32<1:32:43, 26.88s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  24%|██▍       | 66/272 [32:57<1:30:22, 26.32s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  25%|██▍       | 67/272 [33:16<1:22:29, 24.14s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  25%|██▌       | 68/272 [34:03<1:45:25, 31.01s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  25%|██▌       | 69/272 [34:24<1:35:01, 28.09s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  26%|██▌       | 70/272 [34:48<1:30:06, 26.76s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  26%|██▌       | 71/272 [35:14<1:29:23, 26.68s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  26%|██▋       | 72/272 [35:36<1:24:28, 25.34s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  27%|██▋       | 73/272 [36:04<1:26:39, 26.13s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  27%|██▋       | 74/272 [36:28<1:24:04, 25.48s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  28%|██▊       | 75/272 [37:12<1:42:06, 31.10s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  28%|██▊       | 76/272 [37:39<1:37:21, 29.80s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  28%|██▊       | 77/272 [38:01<1:28:51, 27.34s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  29%|██▊       | 78/272 [38:21<1:21:45, 25.29s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  29%|██▉       | 79/272 [39:54<2:26:01, 45.40s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  29%|██▉       | 80/272 [40:22<2:08:55, 40.29s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  30%|██▉       | 81/272 [40:49<1:55:31, 36.29s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  30%|███       | 82/272 [41:39<2:07:56, 40.40s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  31%|███       | 83/272 [43:01<2:46:19, 52.80s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  31%|███       | 84/272 [43:26<2:19:41, 44.58s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  31%|███▏      | 85/272 [43:57<2:05:51, 40.38s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  32%|███▏      | 86/272 [44:19<1:48:05, 34.87s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  32%|███▏      | 87/272 [44:47<1:41:20, 32.87s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  32%|███▏      | 88/272 [45:11<1:32:25, 30.14s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  33%|███▎      | 89/272 [45:57<1:47:03, 35.10s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  33%|███▎      | 90/272 [46:16<1:31:08, 30.04s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  33%|███▎      | 91/272 [46:55<1:39:21, 32.93s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  34%|███▍      | 92/272 [47:16<1:28:09, 29.39s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  34%|███▍      | 93/272 [47:43<1:25:15, 28.58s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  35%|███▍      | 94/272 [48:08<1:21:30, 27.47s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  35%|███▍      | 95/272 [48:31<1:16:57, 26.09s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  35%|███▌      | 96/272 [48:54<1:13:51, 25.18s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  36%|███▌      | 97/272 [49:20<1:13:55, 25.34s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  36%|███▌      | 98/272 [49:54<1:21:10, 27.99s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  36%|███▋      | 99/272 [50:12<1:12:11, 25.04s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  37%|███▋      | 100/272 [50:43<1:17:21, 26.99s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  37%|███▋      | 101/272 [51:03<1:10:27, 24.72s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  38%|███▊      | 102/272 [51:23<1:06:16, 23.39s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  38%|███▊      | 103/272 [51:49<1:08:16, 24.24s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  38%|███▊      | 104/272 [52:08<1:02:51, 22.45s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  39%|███▊      | 105/272 [52:30<1:02:23, 22.41s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  39%|███▉      | 106/272 [52:55<1:04:13, 23.22s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  39%|███▉      | 107/272 [53:37<1:19:16, 28.83s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  40%|███▉      | 108/272 [54:05<1:18:29, 28.72s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  40%|████      | 109/272 [54:34<1:18:00, 28.71s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  40%|████      | 110/272 [55:02<1:16:35, 28.37s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  41%|████      | 111/272 [55:25<1:12:22, 26.97s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  41%|████      | 112/272 [55:50<1:10:02, 26.26s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  42%|████▏     | 113/272 [57:13<1:54:49, 43.33s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  42%|████▏     | 114/272 [58:48<2:34:58, 58.85s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  42%|████▏     | 115/272 [59:17<2:10:12, 49.76s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  43%|████▎     | 116/272 [59:39<1:48:11, 41.61s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  43%|████▎     | 117/272 [1:00:05<1:35:27, 36.95s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  43%|████▎     | 118/272 [1:00:28<1:23:52, 32.68s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  44%|████▍     | 119/272 [1:00:50<1:14:55, 29.38s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  44%|████▍     | 120/272 [1:01:07<1:05:24, 25.82s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  44%|████▍     | 121/272 [1:01:34<1:05:53, 26.18s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  45%|████▍     | 122/272 [1:02:02<1:06:34, 26.63s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  45%|████▌     | 123/272 [1:02:27<1:04:40, 26.04s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  46%|████▌     | 124/272 [1:02:55<1:05:46, 26.66s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  46%|████▌     | 125/272 [1:03:21<1:04:56, 26.51s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  46%|████▋     | 126/272 [1:03:44<1:01:56, 25.46s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  47%|████▋     | 127/272 [1:04:15<1:05:18, 27.03s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  47%|████▋     | 128/272 [1:04:38<1:02:13, 25.93s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  47%|████▋     | 129/272 [1:05:53<1:36:36, 40.53s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  48%|████▊     | 130/272 [1:06:20<1:26:20, 36.49s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  48%|████▊     | 131/272 [1:07:44<1:59:10, 50.71s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  49%|████▊     | 132/272 [1:08:01<1:34:47, 40.62s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  49%|████▉     | 133/272 [1:08:22<1:20:30, 34.75s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  49%|████▉     | 134/272 [1:08:42<1:10:08, 30.50s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  50%|████▉     | 135/272 [1:09:11<1:08:39, 30.07s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  50%|█████     | 136/272 [1:09:36<1:04:39, 28.53s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  50%|█████     | 137/272 [1:09:54<57:03, 25.36s/条]  The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  51%|█████     | 138/272 [1:10:20<57:02, 25.54s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  51%|█████     | 139/272 [1:10:40<52:26, 23.66s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  51%|█████▏    | 140/272 [1:11:04<52:36, 23.92s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  52%|█████▏    | 141/272 [1:11:23<49:10, 22.53s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  52%|█████▏    | 142/272 [1:11:49<50:52, 23.48s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  53%|█████▎    | 143/272 [1:12:11<49:27, 23.00s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  53%|█████▎    | 144/272 [1:13:03<1:07:52, 31.82s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  53%|█████▎    | 145/272 [1:13:26<1:01:15, 28.94s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  54%|█████▎    | 146/272 [1:13:51<58:44, 27.97s/条]  The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  54%|█████▍    | 147/272 [1:15:16<1:33:40, 44.96s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  54%|█████▍    | 148/272 [1:15:41<1:20:21, 38.88s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  55%|█████▍    | 149/272 [1:16:51<1:39:17, 48.44s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  55%|█████▌    | 150/272 [1:17:21<1:27:12, 42.89s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  56%|█████▌    | 151/272 [1:17:46<1:15:36, 37.49s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  56%|█████▌    | 152/272 [1:18:05<1:04:05, 32.05s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  56%|█████▋    | 153/272 [1:18:25<55:59, 28.23s/条]  The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  57%|█████▋    | 154/272 [1:18:49<53:16, 27.09s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  57%|█████▋    | 155/272 [1:19:19<54:29, 27.94s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  57%|█████▋    | 156/272 [1:19:38<48:46, 25.23s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  58%|█████▊    | 157/272 [1:19:57<45:00, 23.48s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  58%|█████▊    | 158/272 [1:20:17<42:27, 22.35s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  58%|█████▊    | 159/272 [1:20:42<43:38, 23.17s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  59%|█████▉    | 160/272 [1:21:07<44:15, 23.71s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  59%|█████▉    | 161/272 [1:21:33<45:08, 24.40s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  60%|█████▉    | 162/272 [1:22:08<50:21, 27.47s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  60%|█████▉    | 163/272 [1:22:33<48:48, 26.87s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  60%|██████    | 164/272 [1:22:57<46:49, 26.01s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  61%|██████    | 165/272 [1:23:25<47:17, 26.52s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  61%|██████    | 166/272 [1:23:54<48:20, 27.36s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  61%|██████▏   | 167/272 [1:24:14<43:44, 25.00s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  62%|██████▏   | 168/272 [1:24:43<45:19, 26.15s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  62%|██████▏   | 169/272 [1:25:10<45:24, 26.45s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  62%|██████▎   | 170/272 [1:25:28<40:44, 23.97s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  63%|██████▎   | 171/272 [1:25:51<39:35, 23.52s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  63%|██████▎   | 172/272 [1:26:18<41:05, 24.65s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  64%|██████▎   | 173/272 [1:26:40<39:32, 23.97s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  64%|██████▍   | 174/272 [1:26:58<36:21, 22.26s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  64%|██████▍   | 175/272 [1:27:18<34:32, 21.36s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  65%|██████▍   | 176/272 [1:28:02<45:16, 28.30s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  65%|██████▌   | 177/272 [1:28:20<39:52, 25.19s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  65%|██████▌   | 178/272 [1:28:48<40:32, 25.88s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  66%|██████▌   | 179/272 [1:29:21<43:30, 28.07s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  66%|██████▌   | 180/272 [1:29:45<41:11, 26.86s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  67%|██████▋   | 181/272 [1:30:07<38:38, 25.48s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  67%|██████▋   | 182/272 [1:30:34<38:54, 25.94s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  67%|██████▋   | 183/272 [1:31:00<38:31, 25.97s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  68%|██████▊   | 184/272 [1:31:26<37:55, 25.86s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  68%|██████▊   | 185/272 [1:31:50<36:55, 25.47s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  68%|██████▊   | 186/272 [1:32:16<36:40, 25.58s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  69%|██████▉   | 187/272 [1:32:44<37:14, 26.29s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  69%|██████▉   | 188/272 [1:33:01<32:54, 23.51s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  69%|██████▉   | 189/272 [1:33:20<30:43, 22.21s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  70%|██████▉   | 190/272 [1:33:44<31:08, 22.79s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  70%|███████   | 191/272 [1:34:09<31:33, 23.38s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  71%|███████   | 192/272 [1:34:37<33:03, 24.79s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  71%|███████   | 193/272 [1:34:59<31:37, 24.02s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  71%|███████▏  | 194/272 [1:35:22<30:38, 23.57s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  72%|███████▏  | 195/272 [1:35:51<32:14, 25.12s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  72%|███████▏  | 196/272 [1:37:09<52:05, 41.12s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  72%|███████▏  | 197/272 [1:37:33<45:04, 36.05s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  73%|███████▎  | 198/272 [1:38:02<41:41, 33.81s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  73%|███████▎  | 199/272 [1:38:40<42:43, 35.11s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  74%|███████▎  | 200/272 [1:39:04<37:59, 31.66s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  74%|███████▍  | 201/272 [1:39:32<36:15, 30.64s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  74%|███████▍  | 202/272 [1:39:50<31:15, 26.79s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  75%|███████▍  | 203/272 [1:40:16<30:35, 26.60s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  75%|███████▌  | 204/272 [1:40:39<28:45, 25.37s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  75%|███████▌  | 205/272 [1:41:04<28:13, 25.27s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  76%|███████▌  | 206/272 [1:41:29<27:47, 25.27s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  76%|███████▌  | 207/272 [1:41:51<26:16, 24.26s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  76%|███████▋  | 208/272 [1:42:15<25:52, 24.26s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  77%|███████▋  | 209/272 [1:42:37<24:51, 23.68s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  77%|███████▋  | 210/272 [1:43:28<32:45, 31.70s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  78%|███████▊  | 211/272 [1:43:52<29:54, 29.42s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  78%|███████▊  | 212/272 [1:44:16<27:53, 27.89s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  78%|███████▊  | 213/272 [1:44:36<25:00, 25.43s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  79%|███████▊  | 214/272 [1:45:00<24:14, 25.08s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  79%|███████▉  | 215/272 [1:45:26<23:56, 25.21s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  79%|███████▉  | 216/272 [1:45:45<22:01, 23.60s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  80%|███████▉  | 217/272 [1:46:14<22:56, 25.03s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  80%|████████  | 218/272 [1:46:32<20:49, 23.13s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  81%|████████  | 219/272 [1:47:35<30:59, 35.09s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  81%|████████  | 220/272 [1:48:54<41:46, 48.20s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  81%|████████▏ | 221/272 [1:49:13<33:32, 39.45s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  82%|████████▏ | 222/272 [1:49:39<29:19, 35.19s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  82%|████████▏ | 223/272 [1:50:02<25:52, 31.68s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  82%|████████▏ | 224/272 [1:51:09<33:43, 42.16s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  83%|████████▎ | 225/272 [1:51:35<29:13, 37.32s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  83%|████████▎ | 226/272 [1:52:36<34:02, 44.40s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  83%|████████▎ | 227/272 [1:54:20<46:52, 62.51s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  84%|████████▍ | 228/272 [1:55:03<41:25, 56.50s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  84%|████████▍ | 229/272 [1:55:30<34:14, 47.79s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  85%|████████▍ | 230/272 [1:55:58<29:18, 41.88s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  85%|████████▍ | 231/272 [1:56:23<25:01, 36.62s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  85%|████████▌ | 232/272 [1:56:38<20:04, 30.11s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  86%|████████▌ | 233/272 [1:56:54<16:50, 25.92s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  86%|████████▌ | 234/272 [1:57:11<14:49, 23.42s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  86%|████████▋ | 235/272 [1:57:30<13:34, 22.01s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  87%|████████▋ | 236/272 [1:57:44<11:39, 19.43s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  87%|████████▋ | 237/272 [1:58:03<11:25, 19.60s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  88%|████████▊ | 238/272 [1:58:18<10:11, 17.97s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  88%|████████▊ | 239/272 [1:58:35<09:45, 17.74s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  88%|████████▊ | 240/272 [1:58:52<09:19, 17.48s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  89%|████████▊ | 241/272 [1:59:24<11:19, 21.91s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  89%|████████▉ | 242/272 [1:59:37<09:41, 19.38s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  89%|████████▉ | 243/272 [1:59:55<09:10, 18.98s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  90%|████████▉ | 244/272 [2:00:10<08:14, 17.66s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  90%|█████████ | 245/272 [2:00:24<07:27, 16.58s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  90%|█████████ | 246/272 [2:00:40<07:06, 16.42s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  91%|█████████ | 247/272 [2:00:59<07:06, 17.07s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  91%|█████████ | 248/272 [2:01:21<07:27, 18.63s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  92%|█████████▏| 249/272 [2:01:45<07:43, 20.17s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  92%|█████████▏| 250/272 [2:02:01<06:58, 19.00s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  92%|█████████▏| 251/272 [2:02:16<06:12, 17.72s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  93%|█████████▎| 252/272 [2:02:31<05:40, 17.01s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  93%|█████████▎| 253/272 [2:02:46<05:13, 16.50s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  93%|█████████▎| 254/272 [2:03:04<05:01, 16.76s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  94%|█████████▍| 255/272 [2:03:19<04:34, 16.14s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  94%|█████████▍| 256/272 [2:03:39<04:38, 17.42s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  94%|█████████▍| 257/272 [2:04:00<04:39, 18.65s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  95%|█████████▍| 258/272 [2:04:15<04:01, 17.29s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  95%|█████████▌| 259/272 [2:05:21<06:55, 31.93s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  96%|█████████▌| 260/272 [2:05:39<05:34, 27.87s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  96%|█████████▌| 261/272 [2:05:54<04:24, 24.03s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  96%|█████████▋| 262/272 [2:06:31<04:39, 27.98s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  97%|█████████▋| 263/272 [2:07:12<04:45, 31.77s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  97%|█████████▋| 264/272 [2:07:26<03:31, 26.45s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  97%|█████████▋| 265/272 [2:07:45<02:49, 24.21s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  98%|█████████▊| 266/272 [2:08:05<02:18, 23.02s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  98%|█████████▊| 267/272 [2:08:38<02:09, 25.98s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  99%|█████████▊| 268/272 [2:08:55<01:32, 23.17s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  99%|█████████▉| 269/272 [2:09:35<01:24, 28.29s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度:  99%|█████████▉| 270/272 [2:09:50<00:48, 24.33s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度: 100%|█████████▉| 271/272 [2:10:35<00:30, 30.41s/条]The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Mistral-3.2 处理进度: 100%|██████████| 272/272 [2:10:54<00:00, 27.17s/条]Mistral-3.2 处理进度: 100%|██████████| 272/272 [2:10:54<00:00, 28.88s/条]
+
+所有处理完成，结果已保存到 Mistral-3.2_eval_GLM.json
+成功处理：272条 | 失败：0条
